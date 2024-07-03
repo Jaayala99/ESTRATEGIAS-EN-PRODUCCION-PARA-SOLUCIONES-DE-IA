@@ -1,0 +1,9 @@
+{
+    "formato_entrada": {
+      "query": "string"
+    },
+    "formato_salida": {
+      "respuesta": ["string"]
+    }
+  }
+  
